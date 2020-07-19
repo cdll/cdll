@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 🙋 Nice to meet u and welcome to know me @ [CDLL](https://cdll.js.org)
+[![Repo Card](https://github-readme-stats.vercel.app/api?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&text_color=909090&bg_color=123123)](https://github.com/cdll)
+
+### Help yourself with something u may need:
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&repo=whenx)](https://github.com/cdll/whenx)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&repo=gulp-vue-parser)](https://github.com/cdll/gulp-vue-parser)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&repo=rem.css)](https://github.com/cdll/rem.css)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&repo=import)](https://github.com/cdll/import)
 
 <!--
 **cdll/cdll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
