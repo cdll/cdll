@@ -1,5 +1,17 @@
-### Hi there 🙋 Nice to meet u and welcome to know me @ [CDLL](https://cdll.js.org)
-[![Repo Card](https://github-readme-stats.vercel.app/api?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&text_color=909090&bg_color=123123)](https://github.com/cdll)
+<header style='display: flex;'>
+  <h2 style='flex: 1;'>
+    Hi there 🙋 Nice to meet u! 
+    <br/>
+    Welcome to know me @ <a href='https://cdll.js.org'>CDLL</a>
+  </h2>
+
+  <a style='flex: 1;' href='https://github.com/cdll'>
+    <img
+      style='display: inline-block;max-width: 100%;'
+      src='https://github-readme-stats.vercel.app/api?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&text_color=909090&bg_color=123123'
+    />
+  </a>
+</header>
 
 ### Help yourself with something u may need:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&repo=whenx)](https://github.com/cdll/whenx)
@@ -9,6 +21,7 @@
 
 <!--
 **cdll/cdll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Repo Card](https://github-readme-stats.vercel.app/api?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&text_color=909090&bg_color=123123)](https://github.com/cdll)
 
 Here are some ideas to get you started:
 
