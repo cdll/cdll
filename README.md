@@ -1,6 +1,6 @@
 <header style='display: flex;'>
-  <aside style='flex: 3;display: block;font-size: 2em;'>
-    Hi there 🙋 Nice to meet u! Welcome to know me @ <a href='https://cdll.js.org'>CDLL</a>
+  <aside style='flex: 3;display: block;font-size: 2em;line-height: 2;'>
+    Hi there 🙋 Nice to meet u! <br/>Welcome to know me @ <a href='https://cdll.js.org'>CDLL</a>
   </aside>
   <a style='flex: 2;display: block;float: right;' href='https://github.com/cdll'>
     <img
