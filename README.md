@@ -1,10 +1,8 @@
 <header style='display: flex;'>
-  <aside style='flex: 1;display: inline-block;font-size: 2em;'>
-    Hi there 🙋 Nice to meet u! 
-    <br>
-    Welcome to know me @ <a href='https://cdll.js.org'>CDLL</a>
+  <aside style='flex: 3;display: block;font-size: 2em;'>
+    Hi there 🙋 Nice to meet u! Welcome to know me @ <a href='https://cdll.js.org'>CDLL</a>
   </aside>
-  <a style='flex: 1;display: inline-block;' href='https://github.com/cdll'>
+  <a style='flex: 2;display: block;float: right;' href='https://github.com/cdll'>
     <img
       style='display: inline-block;max-width: 100%;'
       src='https://github-readme-stats.vercel.app/api?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&text_color=909090&bg_color=123123'
