@@ -13,7 +13,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&repo=whenx)](https://github.com/cdll/whenx)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&repo=gulp-vue-parser)](https://github.com/cdll/gulp-vue-parser)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&repo=rem.css)](https://github.com/cdll/rem.css)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&repo=import)](https://github.com/cdll/import)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cdll&show_icons=true&title_color=2cadf0&icon_color=cad&repo=vscode-lazy-resolve-snippets)](https://marketplace.visualstudio.com/items?itemName=cdll.lazy-resolve-snippets)
 
 <!--
 **cdll/cdll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
